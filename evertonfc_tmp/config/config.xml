@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<info>
+                <!--    
+                Time format : dd mmmm yyyy H:i:s 
+                e.g : 17 august 2015 12:00:00
+                -->
+	<time>12 august 2013 12:00:00</time>
+                <!--    
+                Custom effects : default/cube/page/concave/zoom/linear/fade/none    
+                -->
+	<effect>default</effect>
+
+		<!--    
+                Facebook Link:
+				e.g : 
+				<facebook>http://facebook.com/techawake</facebook>
+                -->
+	<facebook>http://facebook.com</facebook>
+		<!--    
+                linkedin Link:
+				e.g : 
+				<facebook>http://linkedin.com/techawake</facebook>
+                 -->
+	<linkedin>http://linkedin.com</linkedin>
+		<!--    
+                twitter Link:
+				e.g : 
+				<facebook>http://twitter.com/techawake</facebook>
+                 -->
+	<twitter>http://twitter.com</twitter>
+		<!--    
+                flickr Link:
+				e.g : 
+				<facebook>http://flickr.com/techawake</facebook>
+                -->
+	<flickr>http://flickr.com</flickr>
+		<!--    
+                googleplus Link:
+				e.g : 
+				<facebook>http://googleplus.com/techawake</facebook>
+                -->
+	<googleplus>http://googleplus.com</googleplus>
+		<!--    
+                rss Link:
+				e.g : 
+				<facebook>http://techawake.com/rss</facebook>
+                 -->
+	<rss>http://domain.com/rss</rss>
+		<!--    
+                youtube Link:
+				e.g : 
+				<youtube>http://youtube.com/techawake</youtube>
+                 -->
+	<youtube>http://youtube.com</youtube>
+	
+	
+</info>
